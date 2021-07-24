@@ -2,7 +2,7 @@
 
 There are two directories for the analyses:
 
-### gwas:
+### gwas
 
 This directory contains the commands used to run the pipeline in dgrp2.gnets.ncsu.edu and the R script to generate Manhattan plot.
 
